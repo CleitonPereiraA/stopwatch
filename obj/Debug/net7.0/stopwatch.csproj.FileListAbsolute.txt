@@ -1,0 +1,14 @@
+C:\ads\lp\curso_balta_io\stopwatch\bin\Debug\net7.0\stopwatch.exe
+C:\ads\lp\curso_balta_io\stopwatch\bin\Debug\net7.0\stopwatch.deps.json
+C:\ads\lp\curso_balta_io\stopwatch\bin\Debug\net7.0\stopwatch.runtimeconfig.json
+C:\ads\lp\curso_balta_io\stopwatch\bin\Debug\net7.0\stopwatch.dll
+C:\ads\lp\curso_balta_io\stopwatch\bin\Debug\net7.0\stopwatch.pdb
+C:\ads\lp\curso_balta_io\stopwatch\obj\Debug\net7.0\stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\ads\lp\curso_balta_io\stopwatch\obj\Debug\net7.0\stopwatch.AssemblyInfoInputs.cache
+C:\ads\lp\curso_balta_io\stopwatch\obj\Debug\net7.0\stopwatch.AssemblyInfo.cs
+C:\ads\lp\curso_balta_io\stopwatch\obj\Debug\net7.0\stopwatch.csproj.CoreCompileInputs.cache
+C:\ads\lp\curso_balta_io\stopwatch\obj\Debug\net7.0\stopwatch.dll
+C:\ads\lp\curso_balta_io\stopwatch\obj\Debug\net7.0\refint\stopwatch.dll
+C:\ads\lp\curso_balta_io\stopwatch\obj\Debug\net7.0\stopwatch.pdb
+C:\ads\lp\curso_balta_io\stopwatch\obj\Debug\net7.0\stopwatch.genruntimeconfig.cache
+C:\ads\lp\curso_balta_io\stopwatch\obj\Debug\net7.0\ref\stopwatch.dll
