@@ -1,4 +1,4 @@
-# Aplicação de Cronômetro no Console
+# Controle do Tempo (Stopwatch)
 
 Esta é uma aplicação de console simples escrita em C# que funciona como um cronômetro regressivo. Permite aos usuários especificar uma duração em segundos ou minutos.
 
